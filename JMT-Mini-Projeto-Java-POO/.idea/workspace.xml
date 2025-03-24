@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="571f676e-2765-42d8-9b60-291b526d47bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JMT-Mini-Projeto-Java-POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Empresa.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ImpactoAmbiental.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ONG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ProjetoEnergiaRenovavel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ProjetoReciclagem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/ProjetoReflorestamento.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImpactoAmbiental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ONG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetoEnergiaRenovavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetoReciclagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProjetoReflorestamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EsbocoJMTJavaPOOMiniProjeto/src/Organizacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EsbocoJMTJavaPOOMiniProjeto/src/Organizacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Organizacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Organizacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ProjetoSustentavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ProjetoSustentavel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/RelatorioImpacto.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/RelatorioImpacto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Voluntario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Voluntario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Organizacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Organizacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProjetoSustentavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProjetoSustentavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RelatorioImpacto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RelatorioImpacto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Voluntario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Voluntario.java" afterDir="false" />
-    </list>
+    <list default="true" id="571f676e-2765-42d8-9b60-291b526d47bf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
