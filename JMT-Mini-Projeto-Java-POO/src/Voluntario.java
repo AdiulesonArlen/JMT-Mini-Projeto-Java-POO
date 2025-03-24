@@ -1,16 +1,17 @@
 public class Voluntario {
-    private String nome; // Nome do volutário
-    private String email; // E-mail do volutário
-    
-    // Construtor que inicializa o voluntário com nome e e-mail
+    private String nome;
+    private String email;
+
     public Voluntario(String nome, String email) {
         this.nome = nome;
         this.email = email;
     }
-    
-    // Método para associar o voluntário a um projeto sustentável
-    public void participaProjeto(ProjetoSustentavel projeto) {
-        projeto.adicionarVoluntario(this);
+
+    public String getNome() {
+        return nome;
     }
 
+    public String getEmail() {
+        return email;
+    }
 }

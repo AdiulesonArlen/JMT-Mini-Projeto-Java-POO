@@ -17,7 +17,7 @@ public class Organizacao {
 
     // Métodos da classe:
     public void adicionarProjetos(String nome, String descricao) {
-
+        listaDeProjetos.add(nome);
     }
     public void listarProjetos() {
 
